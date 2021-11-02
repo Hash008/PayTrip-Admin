@@ -1,0 +1,22 @@
+.doc-sec-content h5{
+	margin-top: 30px;
+}
+.doc-sec-content p{
+	line-height: 24px;
+	font-size: 14px;
+}
+.doc-sec-content code{
+	font-size: 14px;
+	line-height: 24px;
+}
+.doc-sec-content ul{
+	padding-left: 30px;
+}
+.doc-sec-content ul li{
+	line-height: 30px;
+	font-size: 14px;
+}
+.doc-sec-content img{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}

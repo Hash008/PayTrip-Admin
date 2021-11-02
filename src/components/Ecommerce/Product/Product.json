@@ -1,0 +1,94 @@
+[
+  {
+    "id":1,
+    "name": "JaipurCrafts Decorative Premium 5 inch Wooden Hookah (Brown)",
+    "image":"assets/images/product/product-1.jpg",
+    "size":"M, L, XL",
+    "Price":"$ 35.00",
+    "Quantity":"30",
+    "Category":"Hookahs,Hookah Hoses",
+    "description":"Fine art of Rajasthan , This is product is not for the consumption of tobacco. The SD DESIGN QT hookah is ready to use out of the box..."
+  },
+  {
+    "id":2,
+    "name": "Basement Bazaar Cheeku 13 inch Glass Hookah (Black)",
+    "image":"assets/images/product/product-2.jpg",
+    "size":"M, L, XL",
+    "Price":"$ 47.00",
+    "Quantity":"20",
+    "Category":"Hookahs,Hookah Hoses",
+    "description":"Basement Bazaar Hookah is a truly remarkable Hookah that encompasses detail in the form of a revolutionary..."
+  },
+  {
+    "id":3,
+    "name": "kingtons Copper Outside Fitting Hookah Mouth Tip (Multicolor)",
+    "image":"assets/images/product/product-3.jpg",
+    "size":"L, XL",
+    "Price":"$ 70.00",
+    "Quantity":"10",
+    "Category":"Hookahs",
+    "description":"The E-Pure Starter Kit is one of the newest products from the popular Kingtons brand. It features compact but high capacity..."
+  },
+  {
+    "id":4,
+    "name": "Apple® Watch Series 3 (GPS) 42mm",
+    "image":"assets/images/product/product-4.jpg",
+    "size":"L, XL",
+    "Price":"$ 58.00",
+    "Quantity":"18",
+    "Category":"Watch",
+    "description":"Measure your workouts, from running and cycling to new high-intensity interval training. Track and share your daily activity, and get the motivation you need to hit your goals. Better manage everyday stress and monitor your heart rate more effectively."
+  },
+  {
+    "id":5,
+    "name": "HOMiDO Grab Virtual Reality Black",
+    "image":"assets/images/product/product-5.jpg",
+    "size":"S, L, XL",
+    "Price":"$ 408.00",
+    "Quantity":"10",
+    "Category":"Cell Phones",
+    "description":"Homido GRAB is the best Google Cardboard, by Homido. Style, quality, simplicity. Reviewed and certified by Google,"
+  },
+  {
+    "id":6,
+    "name": "Beats Studio3 Wireless Over-Ear Headphones",
+    "image":"assets/images/product/product-6.jpg",
+    "size":"SM",
+    "Price":"$ 280.00",
+    "Quantity":"53",
+    "Category":"Audio",
+    "description":"Premium sound with fine-tuned acoustics and Pure ANC Beats Studio3 Wireless headphones deliver a premium listening experience with Pure Adaptive Noise Cancelling (Pure ANC) to actively block external noise,"
+  },
+  {
+    "id":7,
+    "name": "PlayStation 4 Pro 1TB Console",
+    "image":"assets/images/product/product-7.jpg",
+    "size":"XL",
+    "Price":"$ 595.00",
+    "Quantity":"80",
+    "Category":"Games",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla hendrerit eget risus vitae venenatis. Nulla ornare non sapien et dapibus. Aliquam non pretium est."
+  },
+  {
+    "id":8,
+    "name": "Basement Bazaar Karun 12 inch Glass Hookah (Grey)",
+    "image":"assets/images/product/product-8.jpg",
+    "size":"S",
+    "Price":"$ 48.00",
+    "Quantity":"145",
+    "Category":"Hookahs",
+    "description":"Basement Bazaar Hookah is a truly remarkable Hookah that encompasses detail in the form of a revolutionary designed..."
+  },
+  {
+    "id":9,
+    "name": "Basement Bazaar Karun 12 inch Glass Hookah (Grey)",
+    "image":"assets/images/product/product-9.jpg",
+    "size":"S,M, L, XL",
+    "Price":"$ 92.00",
+    "Quantity":"17",
+    "Category":"Hookahs",
+    "description":"Basement Bazaar Hookah is a truly remarkable Hookah that encompasses detail in the form of a revolutionary designed..."
+  }
+
+  
+]
